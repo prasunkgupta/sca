@@ -50,3 +50,10 @@ Outputs
 Slideshow
 ===
 Available on [this link](http://www.slideshare.net/prasun001/snow-cover-assessment-tool-using-python) 
+
+
+Citation
+===
+Please cite this paper if you use the code.  
+
+> Gupta, P. K., and Dasgupta, A. “Open source tool for snow cover area assessment.” *ISRS Proceeding Papers of Short Interactive Session ISPRS TC VIII International Symposium on “Operational Remote Sensing Applications: Opportunities, Progress and Challenges”, Hyderabad, India, December 9 - 12, 2014.* Available from http://isrsindia.in/isprs_doc/isrs_p_551.pdf.
